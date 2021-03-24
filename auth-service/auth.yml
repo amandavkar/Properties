@@ -8,7 +8,6 @@ spring:
     username: root
     password: Password
     driver-class-name: com.mysql.jdbc.Driver
-    initialization-mode: always
   jpa:
     hibernate:
       naming:
